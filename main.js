@@ -3,20 +3,10 @@ const courses = [
     url: "15days.html",
     title: "15 Weeks Self Improvement and Good Trading Habits Program",
     thumbnail: "images/course1.png",
-    category: "Discipline",
+    category: "Course",
     description: "How to become discipline trader",
     price: "---",
     isFree:true,
-  },
-
-  {
-    url: "#",
-    title: "Swing Trading with Maths Calculation Course",
-    category: "Strategy",
-    thumbnail: "images/course2.png",
-    description: "Learn Swing Trading Strategy.",
-    price: "---",
-    isLocked: true, 
   },
 
   {
@@ -29,11 +19,21 @@ const courses = [
     price: "---",
     isLocked: true, 
   },
+  {
+    url: "#",
+    title: "Swing Trading with Maths Calculation Course",
+    category: "Course",
+    thumbnail: "images/course2.png",
+    description: "Learn Swing Trading Strategy.",
+    price: "---",
+    isLocked: true, 
+  },
+
 
   {
     url: "#",
     title: "Equity Course (How to pick Jackpot Stocks)",
-    category: "Strategy",
+    category: "Course",
     thumbnail: "images/course4.png",
     description: "Learn about Stocks",
     price: "---",
